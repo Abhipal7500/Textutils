@@ -1,10 +1,10 @@
 //import logo from './logo.svg';
 import './App.css';
-import Alert from './component/Alert';
-import About from './component/About';
-import Navbar from './component/Navbar';
-import TextForm from './component/TextForm';
-import React, { useState } from 'react';
+// import Alert from './component/Alert';
+// import About from './component/About';
+// import Navbar from './component/Navbar';
+// import TextForm from './component/TextForm';
+// import React, { useState } from 'react';
 //import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
